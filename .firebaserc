@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "pwamdel"
-  }
+    "default": "digitalsquad-b3803"
+  },
+  "targets": {},
+  "etags": {}
 }
