@@ -12,20 +12,20 @@
  "description": "Ejemplos de una lista con Material Design 3.",
  "screenshots": [
   {
-   "src": "/img/screenshot_horizontal.png",
-   "sizes": "699x389",
-   "type": "image/png",
-   "form_factor": "wide",
-   "label": "Lista con Material Design 3."
+    "src": "img/screenshot_horizontal.png",
+    "sizes": "1280x720",
+    "type": "image/png",
+    "form_factor": "wide",
+    "label": "Lista con Material Design 3."
   },
   {
-   "src": "/img/screenshot_vertical.png",
-   "sizes": "595x644",
-   "type": "image/png",
-   "form_factor": "narrow",
-   "label": "Lista con Material Design 3. (2)"
+    "src": "img/screenshot_vertical.png",
+    "sizes": "595x644",
+    "type": "image/png",
+    "form_factor": "narrow",
+    "label": "Lista con Material Design 3. (2)"
   }
- ],
+],
  "icons": [
   {
    "purpose": "maskable",
